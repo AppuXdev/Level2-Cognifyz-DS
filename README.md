@@ -31,7 +31,7 @@ This Power BI dashboard analyzes restaurant data to extract insights about ratin
 
 * Identifies top restaurant chains
 * Shows brands with multiple outlets
-![Chains](Task4_restaurant_Chains/l2-task4.png)
+![Chains](Task4_Restaurant_Chains/l2-task4.png)
 ---
 
 ## 🛠 Tools Used
