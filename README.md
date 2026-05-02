@@ -19,19 +19,19 @@ This Power BI dashboard analyzes restaurant data to extract insights about ratin
 * Shows diversity of restaurant offerings
 
 
-![Cuisine Combination](Task2_Cuisine_Combination/l2_task2.png)
+![Cuisine Combination](Task2_Cuisine_Combination/l2-task2.png)
 ## 🔹 Task 3: Geographic Analysis
 
 * Map visualization using latitude & longitude
 * Highlights restaurant distribution across regions
 
-![Map](Task3_Geographic_Analysis/l2_task3.png)
+![Map](Task3_Geographic_Analysis/l2-task3.png)
 
 ## 🔹 Task 4: Restaurant Chain Analysis
 
 * Identifies top restaurant chains
 * Shows brands with multiple outlets
-![Chains](Task4_restaurant_Chains/l2_task4.png)
+![Chains](Task4_restaurant_Chains/l2-task4.png)
 ---
 
 ## 🛠 Tools Used
