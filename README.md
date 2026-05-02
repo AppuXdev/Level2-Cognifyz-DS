@@ -11,7 +11,7 @@ This Power BI dashboard analyzes restaurant data to extract insights about ratin
 * Distribution of restaurant ratings
 * Categorization into Good, Average, Poor, Excellent
 
-
+![Rating Analysis](Task1_Restaurant_Ratings/l2_task1.png)
 
 ## 🔹 Task 2: Cuisine Combination Analysis
 
